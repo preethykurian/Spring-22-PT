@@ -2,3 +2,7 @@ string customer name
 int custid
 float order price
 string customer type
+string coupon 
+if coupon date is expired start issuing new coupons else use the same coupons
+end if
+print customer card
