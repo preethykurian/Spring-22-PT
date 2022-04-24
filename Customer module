@@ -2,3 +2,8 @@ string customer name
 int custid
 float order price
 string customer type
+if customer type ==A and order price greater than 600
+give 10% discount
+else
+no discount
+endif
